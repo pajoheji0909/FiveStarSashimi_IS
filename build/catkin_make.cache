@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+beginner_tutorials:preproject2:project1:racecar-master/ackermann_cmd_mux:racecar-master/racecar:racecar-simulator-master/racecar_control:racecar-simulator-master/racecar_description:racecar-simulator-master/racecar_gazebo
+=======
+beginner_tutorials:preproject2:racecar-master/ackermann_cmd_mux:racecar-master/racecar:racecar-simulator-master/racecar_control:racecar-simulator-master/racecar_description:racecar-simulator-master/racecar_gazebo
+>>>>>>> 79acf1a6e0def3a10d207dd3eacf675523a33d36
+-DCATKIN_DEVEL_PREFIX=/home/parksh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parksh/catkin_ws/install -G Unix Makefiles

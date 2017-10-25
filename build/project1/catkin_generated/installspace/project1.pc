@@ -1,0 +1,8 @@
+prefix=/home/parksh/catkin_ws/install
+
+Name: project1
+Description: Description of project1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parksh/catkin_ws/install/lib 
+Requires: 
